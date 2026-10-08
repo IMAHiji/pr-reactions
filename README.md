@@ -10,6 +10,7 @@ Retro pulp sci-fi reaction images for pull request and code review events, one f
 | Approved | `images/approved/` |
 | Ready to merge | `images/ready-to-merge/` |
 | Merged | `images/merged/` |
+| Comments provided | `images/comments-only/` |
 
 Link an image by its raw URL:
 
